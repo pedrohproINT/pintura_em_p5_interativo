@@ -6,6 +6,8 @@ Pedro Henrique Prado de Oliveira
 
 Lucas Ramenzoni Jorge
 
+Eduardo Rizk
+
 Trabalho para a disciplina de UX da professora Bruna Mayer.
 
 ![Alt text](images/calcadao.jpg)
